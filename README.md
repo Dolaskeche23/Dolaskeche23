@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **iDairy - Smart Dairy Management System**
 
-- 🌱 I’m currently learning **Python,Next.js,Angular.js,PostgreSQL**
+- 🌱 I’m currently learning **PYTHON,NEXT.JS,ANGULAR.JS,POSTGRES-SQL**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,JAVA,OOPS,SQL,NODE.JS,REACT.JS,EXPRESS.JS,MONGODB**
 
